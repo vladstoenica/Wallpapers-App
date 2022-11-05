@@ -18,11 +18,11 @@ DOWNLOAD: https://github.com/vladstoenica/Wallpapers-App/releases
 
 ## Screenshots
 
-<img src="/previews/ss1.png" width="180px">  <img src="/previews/ss2.png" width="180px">  <img src="/previews/ss3.png" width="180px">
+<img src="/previews/ss1.jpg" width="180px">  <img src="/previews/ss2.jpg" width="180px">  <img src="/previews/ss3.jpg" width="180px">
 
 
 ## Credits
 
-Icon from flaticons
-Images from unsplash, backdrops and other sources
-*I do not own the copyright to any of the pictures - none can be downloaded for further distribution*
+- Icon from flaticons
+- Images from unsplash, backdrops and other sources
+- *I do not own the copyright to any of the pictures - none can be downloaded for further distribution*
