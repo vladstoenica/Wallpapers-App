@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437973399072",
+    "project_id": "wallpaper-app-56ede",
+    "storage_bucket": "wallpaper-app-56ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437973399072:android:99c3cdfaebacff30aa6e45",
+        "android_client_info": {
+          "package_name": "com.stoe.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437973399072-njverjgav08qfieqbv58t05gn37nat7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stoe.wallpapers",
+            "certificate_hash": "d35f6b5a1b2748b7a9b33bf731fb80904dd5fed3"
+          }
+        },
+        {
+          "client_id": "437973399072-d3pimdbsbkt9q9drh7nkeg8prpn6covi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kqT-CJpfZKTsNm4IgafJHEbNRJODzcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437973399072-d3pimdbsbkt9q9drh7nkeg8prpn6covi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
